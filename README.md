@@ -2,16 +2,10 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=12&text=AJAY%20MITHRA&fontSize=54&fontColor=ffffff&fontAlignY=40&desc=DATA%20%7C%20PRODUCT%20%7C%20AI%20%7C%20ENGINEERING&descSize=16&descAlignY=62" width="100%" />
 
-<a href="https://github.com/MV-AJAY-MITHRA18">
-<img src="https://img.shields.io/badge/PROFILE-MV--AJAY--MITHRA18-111827?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="mailto:ajaymithra2004g@gmail.com">
-<img src="https://img.shields.io/badge/CONTACT-EMAIL-111827?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<br/><br/>
-
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2600&pause=700&color=58A6FF&center=true&vCenter=true&width=760&lines=I+turn+business+problems+into+data+problems.;I+turn+data+into+insights.;I+turn+ideas+into+working+products.;Research.+Build.+Measure.+Improve." />
+
+<a href="https://github.com/MV-AJAY-MITHRA18"><img src="https://img.shields.io/badge/PROFILE-MV--AJAY--MITHRA18-111827?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="mailto:ajaymithra2004g@gmail.com"><img src="https://img.shields.io/badge/CONTACT-EMAIL-111827?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </div>
 
@@ -25,11 +19,11 @@
 
 I'm a **Computer Science graduate** interested in the intersection of **data, product and technology**.
 
-My work usually starts with a simple question:
+My work usually starts with one question:
 
 > **What problem are we actually solving?**
 
-From there, I like to research the problem, understand the data, build a practical solution and iterate based on what I learn.
+Then I research it, understand the data, build a practical solution and iterate.
 
 **Current direction**
 
@@ -42,19 +36,17 @@ From there, I like to research the problem, understand the data, build a practic
 </td>
 <td width="45%" valign="top">
 
-## NOW
+## SYSTEM STATUS
 
 ```text
-STATUS
-────────────────────────
-Learning     ████████░░  80%
-Building     ███████░░░  70%
-Experimenting████████░░  80%
-Shipping     ██████░░░░  60%
+ANALYTICS       ████████░░  80%
+BUILDING        ███████░░░  70%
+EXPERIMENTING   ████████░░  80%
+SHIPPING        ██████░░░░  60%
 
 MODE
-────────────────────────
-Research → Build → Test
+────────────────────
+RESEARCH / BUILD / TEST
 ```
 
 **Open to**
@@ -70,57 +62,45 @@ Technology-focused roles
 
 ---
 
-## THE WAY I BUILD
+## BUILD LOOP
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center"><b>01</b><br/>DISCOVER</td>
-<td>→</td>
-<td align="center"><b>02</b><br/>ANALYSE</td>
-<td>→</td>
-<td align="center"><b>03</b><br/>BUILD</td>
-<td>→</td>
-<td align="center"><b>04</b><br/>VALIDATE</td>
-<td>→</td>
-<td align="center"><b>05</b><br/>SHIP</td>
-</tr>
-</table>
+```
+DISCOVER  ──→  ANALYSE  ──→  BUILD  ──→  VALIDATE  ──→  SHIP
+    ↑                                                   │
+    └────────────────────── ITERATE ────────────────────┘
+```
 
 </div>
 
 <details>
-<summary><b>Open my working philosophy</b></summary>
+<summary><b>Open the methodology</b></summary>
 
 <br/>
 
-I don't want a project to exist only because it looks good in a repository.
-
-I prefer a simple loop:
+I prefer projects that solve a real problem instead of projects that only exist to fill a portfolio.
 
 ```
-        PROBLEM
-           │
-           ▼
-       RESEARCH
-           │
-           ▼
-      DATA / USERS
-           │
-           ▼
-        SOLUTION
-           │
-           ▼
-       PROTOTYPE
-           │
-           ▼
-      TEST + LEARN
-           │
-           └──────────────┐
-                          │
-                          ▼
-                        SHIP
+              PROBLEM
+                 │
+                 ▼
+             RESEARCH
+                 │
+                 ▼
+            DATA / USERS
+                 │
+                 ▼
+             SOLUTION
+                 │
+                 ▼
+             PROTOTYPE
+                 │
+                 ▼
+            TEST + LEARN
+                 │
+                 ▼
+               SHIP
 ```
 
 **Useful beats complicated.**
@@ -139,8 +119,6 @@ I prefer a simple loop:
 
 A data-focused project for understanding retail revenue, trends and business performance.
 
-**Focus**
-
 `Analytics` `SQL` `Business Intelligence`
 
 <br/>
@@ -153,8 +131,6 @@ A data-focused project for understanding retail revenue, trends and business per
 ### SUPPLY CHAIN AI PREDICTOR
 
 A predictive project exploring AI/ML approaches to supply-chain problems.
-
-**Focus**
 
 `Python` `AI/ML` `Prediction`
 
@@ -172,8 +148,6 @@ A predictive project exploring AI/ML approaches to supply-chain problems.
 
 A sports-data project focused on extracting useful information from IPL match data.
 
-**Focus**
-
 `Python` `Data Analysis` `Visualization`
 
 <br/>
@@ -186,8 +160,6 @@ A sports-data project focused on extracting useful information from IPL match da
 ### SIDE QUEST
 
 A collaborative product experiment focused on researching and turning an idea into something testable.
-
-**Focus**
 
 `Product` `Research` `Web`
 
@@ -205,8 +177,6 @@ A collaborative product experiment focused on researching and turning an idea in
 
 A full-stack expense tracking application with a mobile client and backend services.
 
-**Focus**
-
 `React Native` `Express` `PostgreSQL` `Redis`
 
 <br/>
@@ -220,13 +190,11 @@ A full-stack expense tracking application with a mobile client and backend servi
 
 Small applications built while learning and experimenting with frontend development.
 
-**Focus**
-
 `HTML` `CSS` `JavaScript` `React`
 
 <br/>
 
-<a href="https://github.com/MV-AJAY-MITHRA18?tab=repositories">VIEW ALL REPOSITORIES →</a>
+<a href="https://github.com/MV-AJAY-MITHRA18?tab=repositories">VIEW ALL →</a>
 
 </td>
 </tr>
@@ -234,44 +202,19 @@ Small applications built while learning and experimenting with frontend developm
 
 ---
 
-# SKILL MAP
+# SKILL MATRIX
 
 <div align="center">
 
-<table>
-<tr>
-<th>AREA</th>
-<th>STACK</th>
-</tr>
-<tr>
-<td><b>Analytics</b></td>
-<td>SQL · Python · Pandas · Power BI · Data Visualization</td>
-</tr>
-<tr>
-<td><b>Programming</b></td>
-<td>Python · Java · C · JavaScript</td>
-</tr>
-<tr>
-<td><b>Frontend</b></td>
-<td>HTML · CSS · JavaScript · React</td>
-</tr>
-<tr>
-<td><b>Backend</b></td>
-<td>Node.js · Express · REST APIs</td>
-</tr>
-<tr>
-<td><b>Databases</b></td>
-<td>PostgreSQL · SQL · Redis</td>
-</tr>
-<tr>
-<td><b>Tools</b></td>
-<td>Git · GitHub · VS Code · Docker</td>
-</tr>
-<tr>
-<td><b>Product</b></td>
-<td>Research · Requirements · Analysis · Experimentation</td>
-</tr>
-</table>
+| AREA | STACK |
+|:---|:---|
+| **Analytics** | SQL · Python · Pandas · Power BI · Data Visualization |
+| **Programming** | Python · Java · C · JavaScript |
+| **Frontend** | HTML · CSS · JavaScript · React |
+| **Backend** | Node.js · Express · REST APIs |
+| **Databases** | PostgreSQL · SQL · Redis |
+| **Tools** | Git · GitHub · VS Code · Docker |
+| **Product** | Research · Requirements · Analysis · Experimentation |
 
 <br/>
 
@@ -281,63 +224,55 @@ Small applications built while learning and experimenting with frontend developm
 
 ---
 
-# PROJECT DEPTH
+# DEEP DIVE
 
 <details>
 <summary><b>Retail Revenue Intelligence</b></summary>
 
-<br/>
-
 **Problem space:** understanding business performance through data.
 
-**Repository:** Retail-Revenue-Intelligence
-
 **Direction:** transforming raw business data into meaningful trends, metrics and decision-support views.
+
+<a href="https://github.com/MV-AJAY-MITHRA18/Retail-Revenue-Intelligence">Repository</a>
 
 </details>
 
 <details>
 <summary><b>Supply Chain AI Predictor</b></summary>
 
-<br/>
-
 **Problem space:** using predictive methods to explore supply-chain decisions.
 
-**Repository:** SupplyChain-AI-Predictor
-
 **Direction:** data preparation, modelling and interpreting predictions.
+
+<a href="https://github.com/MV-AJAY-MITHRA18/SupplyChain-AI-Predictor">Repository</a>
 
 </details>
 
 <details>
 <summary><b>Expense Tracker</b></summary>
 
-<br/>
-
 **Problem space:** tracking personal spending through a simple application.
 
 **Architecture:** React Native client + Express backend + PostgreSQL + Redis + Clerk.
 
-**Repository:** expense-tracker
+<a href="https://github.com/MV-AJAY-MITHRA18/expense-tracker">Repository</a>
 
 </details>
 
 <details>
 <summary><b>Side Quest</b></summary>
 
-<br/>
-
 **Problem space:** turning an early product idea into something testable.
 
 **Approach:** research → validate → prototype → build.
 
-**Repository:** side-quest
+<a href="https://github.com/MV-AJAY-MITHRA18/side-quest">Repository</a>
 
 </details>
 
 ---
 
-# GITHUB // LIVE TELEMETRY
+# GITHUB // LIVE DATA
 
 <div align="center">
 
@@ -360,40 +295,44 @@ Small applications built while learning and experimenting with frontend developm
 
 <div align="center">
 
-<img src="https://github.com/MV-AJAY-MITHRA18/MV-AJAY-MITHRA18/blob/output/github-contribution-grid-snake.svg" alt="Contribution animation" width="95%" />
+<img src="https://raw.githubusercontent.com/MV-AJAY-MITHRA18/MV-AJAY-MITHRA18/output/github-contribution-grid-snake.svg" alt="GitHub contribution animation" width="95%" />
 
 </div>
 
-> The contribution animation will appear after its GitHub Actions workflow is configured.
+---
+
+# CURRENT BUILD
+
+<div align="center">
+
+```
+┌──────────────────────────────────────────────────────────┐
+│                                                          │
+│  SIDE QUEST                                              │
+│                                                          │
+│  RESEARCH  →  VALIDATE  →  PROTOTYPE  →  BUILD          │
+│                                                          │
+│  Turning an early idea into something testable.          │
+│                                                          │
+└──────────────────────────────────────────────────────────┘
+```
+
+</div>
 
 ---
 
 # CAREER SNAPSHOT
 
-<table>
-<tr>
-<td align="center"><b>EDUCATION</b><br/><br/>B.Tech<br/>Computer Science & Engineering</td>
-<td align="center"><b>INTEREST</b><br/><br/>Data<br/>Product<br/>AI</td>
-<td align="center"><b>BUILD STYLE</b><br/><br/>Research<br/>Analyse<br/>Ship</td>
-</tr>
-</table>
-
----
-
-# CURRENTLY
-
 <div align="center">
 
-```
-╭────────────────────────────────────────────────────────────╮
-│                                                            │
-│   LEARNING        BUILDING        EXPLORING               │
-│                                                            │
-│   Analytics       Side Quest      AI + Automation         │
-│   Product         Projects        Data Products           │
-│                                                            │
-╰────────────────────────────────────────────────────────────╯
-```
+**EDUCATION**  
+B.Tech — Computer Science & Engineering
+
+**INTERESTS**  
+Data Analytics · Product · AI · Technology
+
+**BUILD PHILOSOPHY**  
+Research · Analyse · Build · Measure · Improve
 
 </div>
 
@@ -408,11 +347,11 @@ Small applications built while learning and experimenting with frontend developm
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=MV-AJAY-MITHRA18&style=flat-square&label=PROFILE+VIEWS" />
-
-<br/><br/>
-
 **BUILD SOMETHING USEFUL. THEN MAKE IT BETTER.**
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=MV-AJAY-MITHRA18&style=flat-square&label=PROFILE+VIEWS" />
 
 </div>
 
