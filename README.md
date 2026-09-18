@@ -1,60 +1,60 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=12&text=AJAY%20MITHRA&fontSize=54&fontColor=ffffff&fontAlignY=40&desc=DATA%20%7C%20PRODUCT%20%7C%20AI%20%7C%20ENGINEERING&descSize=16&descAlignY=62" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=gradient&customColorList=12&text=AJAY%20MITHRA&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=DATA%20%7C%20PRODUCT%20%7C%20AI%20%7C%20ENGINEERING&descSize=16&descAlignY=61" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2600&pause=700&color=58A6FF&center=true&vCenter=true&width=760&lines=I+turn+business+problems+into+data+problems.;I+turn+data+into+insights.;I+turn+ideas+into+working+products.;Research.+Build.+Measure.+Improve." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2400&pause=700&color=58A6FF&center=true&vCenter=true&width=850&lines=I+research+problems.;I+analyse+data.;I+build+products.;I+ship+and+iterate." />
 
-<a href="https://github.com/MV-AJAY-MITHRA18"><img src="https://img.shields.io/badge/PROFILE-MV--AJAY--MITHRA18-111827?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="mailto:ajaymithra2004g@gmail.com"><img src="https://img.shields.io/badge/CONTACT-EMAIL-111827?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<br/>
+
+<a href="#command-center"><img src="https://img.shields.io/badge/COMMAND_CENTER-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF" /></a>
+<a href="#selected-builds"><img src="https://img.shields.io/badge/SELECTED_BUILDS-0D1117?style=for-the-badge&logo=git&logoColor=58A6FF" /></a>
+<a href="#stack"><img src="https://img.shields.io/badge/STACK-0D1117?style=for-the-badge&logo=codeforces&logoColor=58A6FF" /></a>
+<a href="#connect"><img src="https://img.shields.io/badge/CONNECT-0D1117?style=for-the-badge&logo=gmail&logoColor=58A6FF" /></a>
 
 </div>
 
 ---
 
+<a id="command-center"></a>
+
+# COMMAND CENTER
+
 <table>
 <tr>
-<td width="55%" valign="top">
+<td width="62%" valign="top">
 
-## PROFILE
+### AJAY MITHRA
 
-I'm a **Computer Science graduate** interested in the intersection of **data, product and technology**.
+Computer Science graduate building at the intersection of **data, product and technology**.
 
-My work usually starts with one question:
+I like taking an unclear problem, breaking it into smaller questions, working with the available data, building a practical solution and learning from the result.
 
-> **What problem are we actually solving?**
+**Primary direction**
 
-Then I research it, understand the data, build a practical solution and iterate.
-
-**Current direction**
-
-- Data Analytics
-- Product & Business Analysis
-- AI / GenAI applications
-- Full-stack experimentation
-- Automation and dashboards
+Data Analytics  
+Business & Product Analysis  
+AI / GenAI applications  
+Full-stack experimentation  
+Automation and dashboards
 
 </td>
-<td width="45%" valign="top">
+<td width="38%" valign="top">
 
-## SYSTEM STATUS
+### SYSTEM STATUS
 
 ```text
-ANALYTICS       ████████░░  80%
-BUILDING        ███████░░░  70%
-EXPERIMENTING   ████████░░  80%
-SHIPPING        ██████░░░░  60%
+STATUS      ONLINE
+
+RESEARCH    █████████░  90%
+ANALYSE     ████████░░  80%
+BUILD       ████████░░  80%
+VALIDATE    ███████░░░  70%
+SHIP        ██████░░░░  60%
 
 MODE
-────────────────────
-RESEARCH / BUILD / TEST
+──────────────────
+BUILD / TEST / ITERATE
 ```
-
-**Open to**
-
-Data Analyst  
-Business Analyst  
-Product / Product Operations  
-Technology-focused roles
 
 </td>
 </tr>
@@ -62,81 +62,92 @@ Technology-focused roles
 
 ---
 
-## BUILD LOOP
+## NAVIGATION
+
+```text
+[01] COMMAND CENTER    → who I am + what I build
+[02] BUILD LOOP        → how I approach problems
+[03] SELECTED BUILDS   → projects + repositories
+[04] STACK             → tools and technologies
+[05] DEEP DIVE         → project architecture
+[06] GITHUB SIGNALS    → contribution activity
+[07] CONNECT           → contact
+```
+
+---
+
+<a id="build-loop"></a>
+
+# 01 // BUILD LOOP
 
 <div align="center">
 
-```
-DISCOVER  ──→  ANALYSE  ──→  BUILD  ──→  VALIDATE  ──→  SHIP
-    ↑                                                   │
-    └────────────────────── ITERATE ────────────────────┘
+```text
+┌───────────┐     ┌───────────┐     ┌───────────┐
+│ DISCOVER  │ ──→ │  ANALYSE  │ ──→ │   BUILD   │
+└───────────┘     └───────────┘     └───────────┘
+       ↑                                    │
+       │                                    ↓
+┌───────────┐     ┌───────────┐     ┌───────────┐
+│ ITERATE   │ ←── │   LEARN   │ ←── │  VALIDATE │
+└───────────┘     └───────────┘     └───────────┘
 ```
 
 </div>
 
 <details>
-<summary><b>Open the methodology</b></summary>
+<summary><b>Open the operating method</b></summary>
 
 <br/>
 
-I prefer projects that solve a real problem instead of projects that only exist to fill a portfolio.
+**01 — Discover**  
+Define the actual problem before jumping into implementation.
 
-```
-              PROBLEM
-                 │
-                 ▼
-             RESEARCH
-                 │
-                 ▼
-            DATA / USERS
-                 │
-                 ▼
-             SOLUTION
-                 │
-                 ▼
-             PROTOTYPE
-                 │
-                 ▼
-            TEST + LEARN
-                 │
-                 ▼
-               SHIP
-```
+**02 — Analyse**  
+Understand users, requirements, data, constraints and possible approaches.
 
-**Useful beats complicated.**
+**03 — Build**  
+Create the smallest useful version that can answer the important questions.
+
+**04 — Validate**  
+Test assumptions, inspect results and find what needs to change.
+
+**05 — Learn**  
+Keep what works, remove what does not and document the useful lessons.
+
+**06 — Iterate**  
+Repeat until the solution becomes clearer, simpler and more useful.
 
 </details>
 
 ---
 
-# SELECTED WORK
+<a id="selected-builds"></a>
+
+# 02 // SELECTED BUILDS
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### RETAIL REVENUE INTELLIGENCE
+## RETAIL REVENUE INTELLIGENCE
 
-A data-focused project for understanding retail revenue, trends and business performance.
+A business-data project focused on revenue analysis, trends and decision-support.
 
-`Analytics` `SQL` `Business Intelligence`
+`SQL` `Python` `Analytics` `BI`
 
-<br/>
-
-<a href="https://github.com/MV-AJAY-MITHRA18/Retail-Revenue-Intelligence">VIEW PROJECT →</a>
+<a href="https://github.com/MV-AJAY-MITHRA18/Retail-Revenue-Intelligence">OPEN REPOSITORY →</a>
 
 </td>
 <td width="50%" valign="top">
 
-### SUPPLY CHAIN AI PREDICTOR
+## SUPPLY CHAIN AI PREDICTOR
 
-A predictive project exploring AI/ML approaches to supply-chain problems.
+A predictive project exploring machine-learning approaches to supply-chain problems.
 
 `Python` `AI/ML` `Prediction`
 
-<br/>
-
-<a href="https://github.com/MV-AJAY-MITHRA18/SupplyChain-AI-Predictor">VIEW PROJECT →</a>
+<a href="https://github.com/MV-AJAY-MITHRA18/SupplyChain-AI-Predictor">OPEN REPOSITORY →</a>
 
 </td>
 </tr>
@@ -144,28 +155,24 @@ A predictive project exploring AI/ML approaches to supply-chain problems.
 <tr>
 <td width="50%" valign="top">
 
-### IPL MATCH INTELLIGENCE SYSTEM
+## IPL MATCH INTELLIGENCE
 
-A sports-data project focused on extracting useful information from IPL match data.
+A data-analysis project built around IPL match information and extracting useful patterns.
 
 `Python` `Data Analysis` `Visualization`
 
-<br/>
-
-<a href="https://github.com/MV-AJAY-MITHRA18/ipl-match-intelligence-system">VIEW PROJECT →</a>
+<a href="https://github.com/MV-AJAY-MITHRA18/ipl-match-intelligence-system">OPEN REPOSITORY →</a>
 
 </td>
 <td width="50%" valign="top">
 
-### SIDE QUEST
+## SIDE QUEST
 
-A collaborative product experiment focused on researching and turning an idea into something testable.
+A collaborative product experiment moving from research and validation toward a working prototype.
 
 `Product` `Research` `Web`
 
-<br/>
-
-<a href="https://github.com/MV-AJAY-MITHRA18/side-quest">VIEW PROJECT →</a>
+<a href="https://github.com/MV-AJAY-MITHRA18/side-quest">OPEN REPOSITORY →</a>
 
 </td>
 </tr>
@@ -173,28 +180,24 @@ A collaborative product experiment focused on researching and turning an idea in
 <tr>
 <td width="50%" valign="top">
 
-### EXPENSE TRACKER
+## EXPENSE TRACKER
 
-A full-stack expense tracking application with a mobile client and backend services.
+A full-stack expense application with a mobile client, backend services, authentication and data storage.
 
 `React Native` `Express` `PostgreSQL` `Redis`
 
-<br/>
-
-<a href="https://github.com/MV-AJAY-MITHRA18/expense-tracker">VIEW PROJECT →</a>
+<a href="https://github.com/MV-AJAY-MITHRA18/expense-tracker">OPEN REPOSITORY →</a>
 
 </td>
 <td width="50%" valign="top">
 
-### FRONTEND EXPERIMENTS
+## FRONTEND LAB
 
-Small applications built while learning and experimenting with frontend development.
+A collection of smaller applications created while learning and experimenting with frontend development.
 
 `HTML` `CSS` `JavaScript` `React`
 
-<br/>
-
-<a href="https://github.com/MV-AJAY-MITHRA18?tab=repositories">VIEW ALL →</a>
+<a href="https://github.com/MV-AJAY-MITHRA18?tab=repositories">EXPLORE ALL REPOSITORIES →</a>
 
 </td>
 </tr>
@@ -202,21 +205,79 @@ Small applications built while learning and experimenting with frontend developm
 
 ---
 
-# SKILL MATRIX
+# PROJECT PIPELINE
 
 <div align="center">
 
-| AREA | STACK |
+| STAGE | CURRENT FOCUS |
 |:---|:---|
-| **Analytics** | SQL · Python · Pandas · Power BI · Data Visualization |
-| **Programming** | Python · Java · C · JavaScript |
-| **Frontend** | HTML · CSS · JavaScript · React |
-| **Backend** | Node.js · Express · REST APIs |
-| **Databases** | PostgreSQL · SQL · Redis |
-| **Tools** | Git · GitHub · VS Code · Docker |
-| **Product** | Research · Requirements · Analysis · Experimentation |
+| RESEARCH | Problem discovery and market understanding |
+| ANALYSIS | Data, requirements and patterns |
+| PROTOTYPE | Fast experiments and proof of concept |
+| BUILD | Turning validated ideas into applications |
+| ITERATE | Testing, improving and simplifying |
 
-<br/>
+</div>
+
+---
+
+<a id="stack"></a>
+
+# 03 // STACK
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### DATA & ANALYTICS
+
+```text
+SQL
+Python
+Pandas
+Power BI
+Data Visualization
+Business Analysis
+```
+
+### PROGRAMMING
+
+```text
+Python
+Java
+C
+JavaScript
+```
+
+</td>
+<td width="50%" valign="top">
+
+### APPLICATION DEVELOPMENT
+
+```text
+HTML / CSS
+React
+Node.js
+Express
+REST APIs
+PostgreSQL
+Redis
+```
+
+### TOOLS
+
+```text
+Git
+GitHub
+VS Code
+Docker
+```
+
+</td>
+</tr>
+</table>
+
+<div align="center">
 
 <img src="https://skillicons.dev/icons?i=python,java,c,js,html,css,react,nodejs,express,postgres,redis,git,github,vscode,docker" />
 
@@ -224,47 +285,107 @@ Small applications built while learning and experimenting with frontend developm
 
 ---
 
-# DEEP DIVE
+<a id="deep-dive"></a>
+
+# 04 // DEEP DIVE
 
 <details>
-<summary><b>Retail Revenue Intelligence</b></summary>
+<summary><b>Retail Revenue Intelligence — DATA FLOW</b></summary>
 
-**Problem space:** understanding business performance through data.
-
-**Direction:** transforming raw business data into meaningful trends, metrics and decision-support views.
+```text
+RAW BUSINESS DATA
+       │
+       ▼
+DATA CLEANING
+       │
+       ▼
+EXPLORATION
+       │
+       ▼
+METRICS + TRENDS
+       │
+       ▼
+BUSINESS INSIGHTS
+       │
+       ▼
+DECISION SUPPORT
+```
 
 <a href="https://github.com/MV-AJAY-MITHRA18/Retail-Revenue-Intelligence">Repository</a>
 
 </details>
 
 <details>
-<summary><b>Supply Chain AI Predictor</b></summary>
+<summary><b>Supply Chain AI Predictor — MODEL FLOW</b></summary>
 
-**Problem space:** using predictive methods to explore supply-chain decisions.
-
-**Direction:** data preparation, modelling and interpreting predictions.
+```text
+INPUT DATA
+    │
+    ▼
+PREPROCESSING
+    │
+    ▼
+FEATURES
+    │
+    ▼
+MODEL
+    │
+    ▼
+PREDICTION
+    │
+    ▼
+INTERPRETATION
+```
 
 <a href="https://github.com/MV-AJAY-MITHRA18/SupplyChain-AI-Predictor">Repository</a>
 
 </details>
 
 <details>
-<summary><b>Expense Tracker</b></summary>
+<summary><b>Expense Tracker — APPLICATION FLOW</b></summary>
 
-**Problem space:** tracking personal spending through a simple application.
+```text
+MOBILE CLIENT
+     │
+     ▼
+AUTHENTICATION
+     │
+     ▼
+EXPRESS API
+     │
+     ├──────────→ REDIS
+     │
+     ▼
+POSTGRESQL
+```
 
-**Architecture:** React Native client + Express backend + PostgreSQL + Redis + Clerk.
+The repository uses a React Native / Expo client with an Express backend, PostgreSQL, Redis and Clerk authentication.
 
 <a href="https://github.com/MV-AJAY-MITHRA18/expense-tracker">Repository</a>
 
 </details>
 
 <details>
-<summary><b>Side Quest</b></summary>
+<summary><b>Side Quest — PRODUCT FLOW</b></summary>
 
-**Problem space:** turning an early product idea into something testable.
-
-**Approach:** research → validate → prototype → build.
+```text
+RESEARCH
+   │
+   ▼
+PROBLEM
+   │
+   ▼
+VALIDATION
+   │
+   ▼
+PROTOTYPE
+   │
+   ▼
+BUILD
+   │
+   ▼
+MEASURE
+```
 
 <a href="https://github.com/MV-AJAY-MITHRA18/side-quest">Repository</a>
 
@@ -272,83 +393,113 @@ Small applications built while learning and experimenting with frontend developm
 
 ---
 
-# GITHUB // LIVE DATA
+# 05 // CURRENT OPERATING SYSTEM
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+### LEARNING
+
+```text
+DATA
+PRODUCT
+AI
+FRONTEND
+```
+
+</td>
+<td width="33%" align="center">
+
+### BUILDING
+
+```text
+SIDE QUEST
+PROJECT EXPERIMENTS
+DATA PRODUCTS
+```
+
+</td>
+<td width="33%" align="center">
+
+### PRINCIPLE
+
+```text
+RESEARCH
+ANALYSE
+BUILD
+MEASURE
+IMPROVE
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+# 06 // GITHUB SIGNALS
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=MV-AJAY-MITHRA18&hide_border=true&theme=transparent" width="95%" />
+<img src="https://raw.githubusercontent.com/MV-AJAY-MITHRA18/MV-AJAY-MITHRA18/output/github-contribution-grid-snake.svg" alt="GitHub contribution animation" width="95%" />
 
 <br/><br/>
 
 <a href="https://github.com/MV-AJAY-MITHRA18?tab=overview">
-  <img src="https://img.shields.io/badge/VIEW_LIVE_GITHUB_ACTIVITY-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF" />
+<img src="https://img.shields.io/badge/OPEN_GITHUB_ACTIVITY-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF" />
+</a>
+
+<a href="https://github.com/MV-AJAY-MITHRA18?tab=repositories">
+<img src="https://img.shields.io/badge/BROWSE_ALL_PROJECTS-0D1117?style=for-the-badge&logo=git&logoColor=58A6FF" />
 </a>
 
 </div>
 
 ---
 
-# CONTRIBUTION MATRIX
+# 07 // CAREER SNAPSHOT
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/MV-AJAY-MITHRA18/MV-AJAY-MITHRA18/output/github-contribution-grid-snake.svg" alt="GitHub contribution animation" width="95%" />
-
-</div>
-
----
-
-# CURRENT BUILD
-
-<div align="center">
-
-```
-┌──────────────────────────────────────────────────────────┐
-│                                                          │
-│  SIDE QUEST                                              │
-│                                                          │
-│  RESEARCH  →  VALIDATE  →  PROTOTYPE  →  BUILD          │
-│                                                          │
-│  Turning an early idea into something testable.          │
-│                                                          │
-└──────────────────────────────────────────────────────────┘
-```
-
-</div>
-
----
-
-# CAREER SNAPSHOT
-
-<div align="center">
-
-**EDUCATION**  
+```text
+EDUCATION
 B.Tech — Computer Science & Engineering
 
-**INTERESTS**  
-Data Analytics · Product · AI · Technology
+FOCUS
+Data Analytics
+Business Analysis
+Product
+AI / GenAI
+Technology
 
-**BUILD PHILOSOPHY**  
-Research · Analyse · Build · Measure · Improve
-
-</div>
+WORK STYLE
+Research first.
+Understand the data.
+Build the smallest useful solution.
+Measure the result.
+Iterate.
+```
 
 ---
+
+<a id="connect"></a>
 
 # CONNECT
 
 <div align="center">
 
-<a href="mailto:ajaymithra2004g@gmail.com"><img src="https://img.shields.io/badge/EMAIL-111827?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/MV-AJAY-MITHRA18"><img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="mailto:ajaymithra2004g@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=58A6FF" /></a>
+<a href="https://github.com/MV-AJAY-MITHRA18"><img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF" /></a>
 
 <br/><br/>
 
-**BUILD SOMETHING USEFUL. THEN MAKE IT BETTER.**
-
-<br/>
-
 <img src="https://komarev.com/ghpvc/?username=MV-AJAY-MITHRA18&style=flat-square&label=PROFILE+VIEWS" />
+
+<br/><br/>
+
+```text
+BUILD SOMETHING USEFUL.
+THEN MAKE IT BETTER.
+```
 
 </div>
 
