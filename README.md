@@ -276,16 +276,13 @@ Small applications built while learning and experimenting with frontend developm
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=MV-AJAY-MITHRA18&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=transparent" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MV-AJAY-MITHRA18&layout=compact&hide_border=true&langs_count=8&theme=transparent" />
+<img src="https://streak-stats.demolab.com?user=MV-AJAY-MITHRA18&hide_border=true&theme=transparent" width="95%" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=MV-AJAY-MITHRA18&hide_border=true&theme=transparent" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MV-AJAY-MITHRA18&hide_border=true&theme=github-compact&area=true" width="95%" />
+<a href="https://github.com/MV-AJAY-MITHRA18?tab=overview">
+  <img src="https://img.shields.io/badge/VIEW_LIVE_GITHUB_ACTIVITY-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF" />
+</a>
 
 </div>
 
